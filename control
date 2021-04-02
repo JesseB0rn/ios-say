@@ -1,0 +1,8 @@
+Package: ch.jesseb0rn.say
+Name: say
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome tool of some sort!!
+Maintainer: jesseb0rn
+Author: jesseb0rn
+Section: System
